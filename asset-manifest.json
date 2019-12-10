@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SJ5779/NBA.git/static/css/main.cd695efd.chunk.css",
+    "main.js": "/SJ5779/NBA.git/static/js/main.2a782e13.chunk.js",
+    "main.js.map": "/SJ5779/NBA.git/static/js/main.2a782e13.chunk.js.map",
+    "runtime-main.js": "/SJ5779/NBA.git/static/js/runtime-main.2e6a250e.js",
+    "runtime-main.js.map": "/SJ5779/NBA.git/static/js/runtime-main.2e6a250e.js.map",
+    "static/css/2.7f669fb7.chunk.css": "/SJ5779/NBA.git/static/css/2.7f669fb7.chunk.css",
+    "static/js/2.24ec7092.chunk.js": "/SJ5779/NBA.git/static/js/2.24ec7092.chunk.js",
+    "static/js/2.24ec7092.chunk.js.map": "/SJ5779/NBA.git/static/js/2.24ec7092.chunk.js.map",
+    "index.html": "/SJ5779/NBA.git/index.html",
+    "precache-manifest.61d5187a417ecce1369020554b4d41f1.js": "/SJ5779/NBA.git/precache-manifest.61d5187a417ecce1369020554b4d41f1.js",
+    "service-worker.js": "/SJ5779/NBA.git/service-worker.js",
+    "static/css/2.7f669fb7.chunk.css.map": "/SJ5779/NBA.git/static/css/2.7f669fb7.chunk.css.map",
+    "static/css/main.cd695efd.chunk.css.map": "/SJ5779/NBA.git/static/css/main.cd695efd.chunk.css.map",
+    "static/js/2.24ec7092.chunk.js.LICENSE": "/SJ5779/NBA.git/static/js/2.24ec7092.chunk.js.LICENSE",
+    "static/media/nba-logoman-word-white.svg": "/SJ5779/NBA.git/static/media/nba-logoman-word-white.9470e2d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6a250e.js",
+    "static/css/2.7f669fb7.chunk.css",
+    "static/js/2.24ec7092.chunk.js",
+    "static/css/main.cd695efd.chunk.css",
+    "static/js/main.2a782e13.chunk.js"
+  ]
+}
